@@ -79,7 +79,7 @@ of the authors and should not be interpreted as representing official policies,
 either expressed or implied, of the proxsuite-nlp project.
 ~~~
 
-[issues](https://github.com/Simple-Robotics/proxsuite-nlp/issues)
-[closed-issues](https://github.com/Simple-Robotics/proxsuite-nlp/issues?q=is%3Aissue+is%3Aclosed)
-[help-wanted](https://github.com/Simple-Robotics/proxsuite-nlp/labels/help%20wanted)
-[license](https://opensource.org/licenses/BSD-2-Clause)
+[issues](https://github.com/Unity-Billal-mesloub/proxsuite-nlp/issues)
+[closed-issues](https://github.com/Unity-Billal-mesloub/proxsuite-nlp/issues?q=is%3Aissue+is%3Aclosed)
+[help-wanted](https://github.com/Unity-Billal-mesloub/proxsuite-nlp/labels/help%20wanted)
+
