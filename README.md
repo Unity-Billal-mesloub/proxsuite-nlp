@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> This repository is archived. Development on nonlinear solvers for control (on Lie groups for robotics) continues on the [aligator](https://github.com/Simple-Robotics/aligator) repository.
+> This repository is archived. Development on nonlinear solvers for control (on Lie groups for robotics) continues on the [aligator](https://github.com/Unity-Billal-mesloub/aligator) repository.
 >
 > At time of archiving, the dense nonlinear solver in this repository is not ported over to aligator. This might change in the future if there is demand for it (and especially for a sparse Lie group NLP solver).
 
@@ -53,12 +53,11 @@ cmake --build build/ --config Release --target install
 
 **Dependencies**
 
-* CMake (with the [JRL CMake modules](https://github.com/jrl-umi3218/jrl-cmakemodules))
 * Eigen>=3.3.7
-* [fmtlib](https://github.com/fmtlib/fmt)>=9.1.0, <11
+* [fmtlib](https://github.com/Unity-Billal-mesloub/fmt)>=9.1.0, <11
 * [Boost](https://www.boost.org/)>=1.71
-* (optional) [eigenpy](https://github.com/stack-of-tasks/eigenpy)>=3.2.0 | [conda](https://anaconda.org/conda-forge/eigenpy) (Python bindings)
-* (optional) [pinocchio](https://github.com/stack-of-tasks/pinocchio) | [conda](https://anaconda.org/conda-forge/pinocchio)
+* (optional) [eigenpy](https://github.com/Unity-Billal-mesloub/eigenpy)>=3.2.0 | [conda](https://anaconda.org/conda-forge/eigenpy) (Python bindings)
+* (optional) [pinocchio](https://github.com/Unity-Billal-mesloub/pinocchio) | [conda](https://anaconda.org/conda-forge/pinocchio)
 * a C++-14 compliant compiler
 
 **Python dependencies:**
@@ -82,12 +81,12 @@ cmake --build build/ --config Release --target install
 
 The following people have been involved in the development of **proxsuite-nlp** and are warmly thanked for their contributions:
 
-* [Wilson Jallet](https://github.com/ManifoldFR) (LAAS-CNRS/Inria): main developer and manager of the project
-* [Sarah El Kazdadi](https://github.com/sarah-ek) (Inria): linear algebra modules developer
-* [Fabian Schramm](https://github.com/fabinsch) (Inria): core developper
-* [Joris Vaillant](https://github.com/jorisv) (Inria): core developer
-* [Justin Carpentier](https://github.com/jcarpent) (Inria): project coordinator
-* [Nicolas Mansard](https://github.com/nmansard) (LAAS-CNRS): project coordinator
+* [Billal mesloub](https://github.com/Unity-Billal-mesloub) (LAAS-CNRS/Inria): main developer and manager of the project
+* [Billal mesloub](https://github.com/Unity-Billal-mesloub) (Inria): linear algebra modules developer
+* [Billal mesloub](https://github.com/Unity-Billal-mesloub) (Inria): core developper
+* [Billal mesloub](https://github.com/Unity-Billal-mesloub) (Inria): core developer
+* [Billal mesloub](https://github.com/Unity-Billal-mesloub) (Inria): project coordinator
+* [Billal mesloub](https://github.com/Unity-Billal-mesloub) (LAAS-CNRS): project coordinator
 
 ## Acknowledgments
 
